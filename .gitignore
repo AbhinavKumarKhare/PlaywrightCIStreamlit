@@ -1,6 +1,9 @@
 # Node modules
-node_modules/
 
+node_modules/
+test-results/
+server/node_modules/
+allure-results/
 # Logs
 npm-debug.log*
 yarn-debug.log*
