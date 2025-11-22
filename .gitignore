@@ -34,6 +34,13 @@ Thumbs.db
 .eslintcache
 .next/cache/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
 # Temp
 tmp/
 temp/
